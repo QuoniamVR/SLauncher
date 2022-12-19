@@ -1,8 +1,7 @@
-# ReshadeCraft
-ReShade for Minecraft Windows 10 Edition!
+# SLauncher
+## ------------------------
+SLauncher is a launcher designed for injecting different shaders into Minecraft Windows 10 Edition.
 
-
-THE ReshadeCraft Directory is the source containing:
-1x DLL
-1x JSON
-2x EXE
+# Injections
+## ------------------------
+![RESHADE]
