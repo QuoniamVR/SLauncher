@@ -4,4 +4,4 @@ SLauncher is a launcher designed for injecting different shaders into Minecraft 
 
 # Injections
 ## ------------------------
-![RESHADE]
+**ReShade** @crosire
